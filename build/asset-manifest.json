@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "http://easypos.emgurukul.com/static/css/main.ecdff4fa.chunk.css",
+    "main.js": "http://easypos.emgurukul.com/static/js/main.75ca0070.chunk.js",
+    "main.js.map": "http://easypos.emgurukul.com/static/js/main.75ca0070.chunk.js.map",
+    "runtime-main.js": "http://easypos.emgurukul.com/static/js/runtime-main.63331a13.js",
+    "runtime-main.js.map": "http://easypos.emgurukul.com/static/js/runtime-main.63331a13.js.map",
+    "static/css/2.c2d03500.chunk.css": "http://easypos.emgurukul.com/static/css/2.c2d03500.chunk.css",
+    "static/js/2.de9ee13a.chunk.js": "http://easypos.emgurukul.com/static/js/2.de9ee13a.chunk.js",
+    "static/js/2.de9ee13a.chunk.js.map": "http://easypos.emgurukul.com/static/js/2.de9ee13a.chunk.js.map",
+    "static/js/3.de97420b.chunk.js": "http://easypos.emgurukul.com/static/js/3.de97420b.chunk.js",
+    "static/js/3.de97420b.chunk.js.map": "http://easypos.emgurukul.com/static/js/3.de97420b.chunk.js.map",
+    "index.html": "http://easypos.emgurukul.com/index.html",
+    "static/css/2.c2d03500.chunk.css.map": "http://easypos.emgurukul.com/static/css/2.c2d03500.chunk.css.map",
+    "static/css/main.ecdff4fa.chunk.css.map": "http://easypos.emgurukul.com/static/css/main.ecdff4fa.chunk.css.map",
+    "static/js/2.de9ee13a.chunk.js.LICENSE.txt": "http://easypos.emgurukul.com/static/js/2.de9ee13a.chunk.js.LICENSE.txt",
+    "static/media/Mail.be6b6b22.svg": "http://easypos.emgurukul.com/static/media/Mail.be6b6b22.svg",
+    "static/media/App.scss": "http://easypos.emgurukul.com/static/media/TTNorms-Regular.be9ab533.otf",
+    "static/media/User.174e2775.svg": "http://easypos.emgurukul.com/static/media/User.174e2775.svg",
+    "static/media/add-box-fill.79577928.svg": "http://easypos.emgurukul.com/static/media/add-box-fill.79577928.svg",
+    "static/media/calender.40d4959d.svg": "http://easypos.emgurukul.com/static/media/calender.40d4959d.svg",
+    "static/media/leftNav.scss": "http://easypos.emgurukul.com/static/media/transactionWhite.523f3b20.svg",
+    "static/media/edit-box-fill.bb9b9dfa.svg": "http://easypos.emgurukul.com/static/media/edit-box-fill.bb9b9dfa.svg",
+    "static/media/envelope.cd523f12.svg": "http://easypos.emgurukul.com/static/media/envelope.cd523f12.svg",
+    "static/media/eye-fill.41398140.svg": "http://easypos.emgurukul.com/static/media/eye-fill.41398140.svg",
+    "static/media/login.scss": "http://easypos.emgurukul.com/static/media/loginBg.83a491a8.png",
+    "static/media/logo.d106c961.png": "http://easypos.emgurukul.com/static/media/logo.d106c961.png",
+    "static/media/phone-alt.6a8453d5.svg": "http://easypos.emgurukul.com/static/media/phone-alt.6a8453d5.svg",
+    "static/media/phone.1787112b.svg": "http://easypos.emgurukul.com/static/media/phone.1787112b.svg",
+    "static/media/print.16e34ad1.svg": "http://easypos.emgurukul.com/static/media/print.16e34ad1.svg",
+    "static/media/restart-line.svg": "http://easypos.emgurukul.com/static/media/restart-line.41b6533a.svg",
+    "static/media/save-fill.51266d87.svg": "http://easypos.emgurukul.com/static/media/save-fill.51266d87.svg",
+    "static/media/search.0fc31943.svg": "http://easypos.emgurukul.com/static/media/search.0fc31943.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63331a13.js",
+    "static/css/2.c2d03500.chunk.css",
+    "static/js/2.de9ee13a.chunk.js",
+    "static/css/main.ecdff4fa.chunk.css",
+    "static/js/main.75ca0070.chunk.js"
+  ]
+}
